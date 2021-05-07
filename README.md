@@ -12,6 +12,6 @@ Before accessing the files, make sure that you have these libraries in your syst
 7. Matplotlib
 8. Matplotlib.pyplot
 
-The current repository consist of 2 projects.
+The current repository consist of 3 projects.
 
 **Kindly use Google collab or any other high end editor to execute the OpenCV python commands**
