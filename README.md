@@ -18,5 +18,7 @@ The current repository consist of 3 projects.
 3. Chronic Kidney Disease
 4. Wine Quality Prediction Analysis
 5. BigMart Sales Prediction using Regression
+6. Diabetes Prediction
+7. Bike Sharing Demand Analysis
 
 **Kindly use Google collab or any other high end editor to execute the OpenCV python commands**
