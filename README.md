@@ -1,24 +1,29 @@
-# Machine-Learning-Projects
+# Machine Learning Projects - Phase 1
 
-The following repository consists of Web based application using python libraries.
+Welcome to the **Machine Learning Projects - Phase 1** repository! This collection includes machine learning projects focused on real-world applications, from predictive modeling to classification tasks. Each project demonstrates the use of popular ML algorithms and tools in Python.
 
-Before accessing the files, make sure that you have these libraries in your system.
-1. Numpy
-2. Pandas
-3. Streamlit
-4. Cufflinks
-5. sklearn
-6. Seaborn
-7. Matplotlib
-8. Matplotlib.pyplot
+## Projects:
 
-The current repository consist of 3 projects.
-1. Hotel Booking System
-2. Plant Disease Detection
-3. Chronic Kidney Disease
-4. Wine Quality Prediction Analysis
-5. BigMart Sales Prediction using Regression
-6. Diabetes Prediction
-7. Bike Sharing Demand Analysis
+- **Hotel Booking System**: Predict cancellations and bookings.
+- **Plant Disease Detection**: Classify plant diseases from images.
+- **Chronic Kidney Disease Prediction**: Predict kidney disease using medical data.
+- **Wine Quality Prediction**: Predict wine quality based on features.
+- **BigMart Sales Prediction**: Predict sales using regression models.
+- **Diabetes Prediction**: Predict diabetes risk.
+- **Bike Sharing Demand**: Predict bike sharing demand using time series analysis.
 
-**Kindly use Google collab or any other high end editor to execute the OpenCV python commands**
+## Installation
+
+Clone this repository and install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+Each project is contained in its respective folder, with Jupyter notebooks or Python scripts. Follow project-specific instructions within each folder for setup and execution.
+
+## License
+
+This project is open-source and available under the MIT License.
